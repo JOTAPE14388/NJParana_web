@@ -198,12 +198,13 @@
             color: antiquewhite;
         }
 
-        .cambio__color{
-            transition: color 2s;
+        .encabezado{
+            transition: all 0.2s ease-in-out;
         }
 
-        .cambio__color:hover{
-            color: red;
+        .encabezado:hover{
+            color: #00c2a8;
+            transition: .5s;
         }
         
 
